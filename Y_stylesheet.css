@@ -1,0 +1,12 @@
+body{
+    
+    background-color: whitesmoke;
+}
+.class {color:green}
+#color1{color:black;}
+#image {
+    display:block;
+    text-align: center;
+    margin: 1cm;
+    border: 1cm solid;
+    border-color: brown;}

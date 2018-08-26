@@ -1,0 +1,62 @@
+body {
+    background-color: #F0F8FF;
+    color: #3387B2;
+}
+
+.bigWords {
+    color: #B28245;
+    margin-left: 450px;
+}
+
+.mediumWords {
+    color: #B28245;
+    margin-left: 370px;
+}
+
+#smoke1 {
+    max-width: 500px;
+    height: 250px;   
+    margin-left: 350px;
+    margin-right: auto;
+    display: block;
+}
+
+#smoke1:hover {
+    opacity: 0.5;
+}
+
+#firstPara {
+   margin-left: 250px;
+}
+
+#longPara {
+
+}
+
+.vertical-menu {
+    width: 200px;
+    float: right;
+}
+
+.vertical-menu a {
+    background-color: #3387B2;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    font-weight: bold;
+    opacity: 0.5;
+}
+
+.vertical-menu a:hover {
+    background-color: white;
+}
+
+.vertical-menu a.active {
+    background-color: #FFC57C;
+    color: black;
+}
+
+#boog {
+    float: left;
+}
